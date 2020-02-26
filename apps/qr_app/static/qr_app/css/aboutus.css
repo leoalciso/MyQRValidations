@@ -1,0 +1,30 @@
+* {
+    margin: 0%;
+    padding:0px;
+}
+.container{
+    height:500px;
+    width:500px;
+}
+.Header{
+    display:block;
+}
+h1{
+    width:200px;
+    display:inline-block;
+}
+.Login{
+    margin-left: 70%;
+    vertical-align: top;
+}
+.registration{
+    vertical-align: top;
+}
+.information{
+    margin-left: 70%;
+    vertical-align: bottom;
+    padding:20px;
+}
+h3{
+    
+}
